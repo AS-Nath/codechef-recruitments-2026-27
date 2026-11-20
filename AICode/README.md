@@ -9,6 +9,7 @@ AI-generated solutions, one folder per language (same layout as the repo root).
 | 3 | Black Magic | blackmagic |
 | 4 | Bad Romance | badromance |
 | 5 | Patient Zero | patientzero |
+| 6 | Chef in Ancient Egypt (driest path) | nileflood |
 
-Languages: `C/`, `C++/`, `Java/`, `Python/` (all five problems in each).
+Languages: `C/`, `C++/`, `Java/`, `Python/` (all six problems in each).
 Java classes are named `Solution`, matching the existing repo files.
